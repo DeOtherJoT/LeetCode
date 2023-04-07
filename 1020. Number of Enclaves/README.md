@@ -50,6 +50,6 @@ END
 ```
 
 ## Solution Benchmark
-![](images/c_result.png "C solution")
+![C solution](images/c_result.png "C solution")
 
-![](images/py_result.png "Python3 solution")
+![Python3 solution](images/py_result.png "Python3 solution")
