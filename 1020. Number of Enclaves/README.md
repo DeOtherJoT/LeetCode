@@ -14,7 +14,9 @@ Return  _the number of land cells in_  `grid`  _for which we cannot walk off the
 ![](https://assets.leetcode.com/uploads/2021/02/18/enclaves1.jpg)
 
 **Input:** grid = [[0,0,0,0],[1,0,1,0],[0,1,1,0],[0,0,0,0]]
+
 **Output:** 3
+
 **Explanation:** There are three 1s that are enclosed by 0s, and one 1 that is not enclosed because its on the boundary.
 
 ---
@@ -23,7 +25,9 @@ Return  _the number of land cells in_  `grid`  _for which we cannot walk off the
 ![](https://assets.leetcode.com/uploads/2021/02/18/enclaves2.jpg)
 
 **Input:** grid = [[0,1,1,0],[0,0,1,0],[0,0,1,0],[0,0,0,0]]
+
 **Output:** 0
+
 **Explanation:** All 1s are either on the boundary or can reach the boundary.
 
 ---
