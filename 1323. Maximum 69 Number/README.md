@@ -61,4 +61,4 @@ END
 
 ### Solution Benchmark
 
-![Python3 Solution](images.py_result.png "Python3 Solution")
+![Python3 Solution](images/py_result.png "Python3 Solution")
